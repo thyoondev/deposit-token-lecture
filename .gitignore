@@ -6,3 +6,4 @@ coverage.json
 typechain-types/
 .env
 deployed-addresses.json
+.DS_Store
